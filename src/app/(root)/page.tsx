@@ -19,7 +19,7 @@ export default function Home() {
         <div>
           <ul>
             <li>
-              <a href="https://github.com/Leonss23" target="_blank">
+              <a href="https://github.com/leonardogattidev" target="_blank">
                 <p>GitHub</p>
                 <svg
                   role="img"
